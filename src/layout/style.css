@@ -1,0 +1,38 @@
+.search_box{
+    -fx-background-color: #e5eae9;
+    -fx-background-radius: 50;
+}
+
+.search_button{
+    -fx-background-color: #bbcfcd;
+    -fx-background-radius: 30;
+}
+.shadow{
+    -fx-effect: dropshadow(three-pass-box,rgba(0,0,0,0.1),10.0,0.0,0.0,10.0);
+}.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+.animal-bref-view{
+    -fx-background-color: #bbcfcd;
+    -fx-background-radius: 15;
+}
+.discrep{
+    -fx-background-color: #e5eae9;
+    -fx-border-color: black;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+.image{
+    -fx-border-color: #bbcfcd;
+}
+
+
+.buttons{
+    -fx-background-color: #bbcfcd;
+    -fx-background-radius: 10;
+}
+
+
+.Layouts{
+    -fx-background-color:  #F2F2F2;
+}
